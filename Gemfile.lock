@@ -103,6 +103,8 @@ GEM
       activesupport (~> 4.0)
       html-pipeline (~> 2.3)
       jekyll (~> 3.0)
+    jekyll-menus (0.5.0)
+      jekyll (~> 3.1)
     jekyll-optional-front-matter (0.1.2)
       jekyll (~> 3.0)
     jekyll-paginate (1.1.0)
@@ -196,6 +198,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-menus (~> 0.5.0)
   jekyll-seo-tag
   tzinfo-data
 

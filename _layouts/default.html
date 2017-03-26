@@ -35,6 +35,17 @@
 </head>
 <body>
 <!-- Add your site or app content here -->
+<header>
+  <nav>
+    <ul>
+      {% for item in site.menus.header %}
+        <li><a href="{{ item.url }}">
+          {{ item.title }}
+        </a></li>
+      {% endfor %}
+    </ul>
+  </nav>
+</header>
 {{ content }}
 <!-- build:js scripts/main.min.js -->
 <script src="scripts/main.js"></script>

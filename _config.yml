@@ -32,7 +32,7 @@ defaults:
       path: ""
     values:
       image: /assets/images/logo.jpg
-      
+
 author: James Quinn
 
 # Filtering Content
@@ -47,6 +47,7 @@ markdown: kramdown
 gems:
   - github-pages
   - jekyll-seo-tag
+  - jekyll-menus
 exclude:
   - Gemfile
   - Gemfile.lock
