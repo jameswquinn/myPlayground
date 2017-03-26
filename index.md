@@ -6,7 +6,8 @@ image: https://kelseysherri.files.wordpress.com/2015/09/aptopix-fashion-theysken
 author: James Quinn
 menu:
   header:
-    weight: 6
+    weight: 1
+    parent: item_vB_sMCR
     title: home
 ---
 Hello from index
