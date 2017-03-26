@@ -7,7 +7,6 @@ author: James Quinn
 menu:
   header:
     weight: 1
-    parent: item_vB_sMCR
     title: home
 ---
 Hello from index

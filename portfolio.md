@@ -4,8 +4,7 @@ title: portfolio
 date: '2017-03-26T05:38:56+00:00'
 menu:
   header:
-    weight: 2
-    parent: item_vB_sMCR
+    weight: 3
 ---
 
 
