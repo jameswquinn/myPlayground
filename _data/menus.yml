@@ -1,6 +1,1 @@
----
-header:
-- identifier: home
-  url: index
-  weight: 1
-  title: home
+--- {}
